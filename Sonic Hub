@@ -1,0 +1,7 @@
+--[[
+
+                |_SonicObfuscator (100% real)
+                
+    Sonic Scripts: https://discord.com/invite/YzqWvqpycn
+]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sonic010/Sonic-Hub/main/Sonic%20hub"))()
